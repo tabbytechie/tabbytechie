@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Tabby Michael — aka **tabby-techie** 🚀
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tabitha-michael-6a9800219)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kibuguzian@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tabbynmichael@gmail.com)
 [![GitHub](https://img.shields.io/badge/Portfolio-My%20Projects-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tabby-techie)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tabby-techie.readme&style=for-the-badge)
 
